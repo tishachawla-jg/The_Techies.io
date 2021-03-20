@@ -1,6 +1,8 @@
 **PROJECT DESCRIPTION**
 Our Project SHE is centered upon the idea of women empowerment.Women are a multitasker and it is essential to have a sound body and mind to persevere this unique power in them.Women are key in maintaining healthy families and access the health system more than men, both for themselves and on behalf of their children. Across her lifespan, a woman’s health status not only  matters to herself but also to her family ,so it is essential to that they have sound mind and body .
 We have created this website to make it all simpler for them. We have looked at it from our own point of you and tried to incorporate as many features as possible.
+
+
 ![image](https://user-images.githubusercontent.com/76087547/111888274-1fea9600-8a01-11eb-9e44-c3aa3ec7ad4f.png)
 
 **RESEACRCH**
@@ -18,12 +20,19 @@ We have created this website to make it all simpler for them. We have looked at 
 The features includes the convenience of :
 *A Login Page
 *Three personal chatbots regarding menstruation, health and safety: To make the website more user friendly we have added a Chatbot feature .The Chatbot contains three sections :One is Menstruation Section which contains each and every information regarding periods and acts as a guide during the difficult times ,second is health section which has a specialized diet plan for women of all categories and then there is a safety section which acts as a supporter during the times we we feel unsafe and has safety advices. 
+
 *A Health column which includes a BMI and a CALORIE calculator ,a diet plan ,a workout plan for beginners and also some healthy habits to follow. We believe that this column would make it easier for them to find everything at a single place which is easily accessible. Also ,the BMI chart is added for measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass .All these features are added to maintain a healthy lifestyle. 
 We promote Women Participation in every sphere, We have a special connect feature which is open to questions be it career related or some life issues or any health problem . A personal adviser is always there to suggest the best solution in that regard . With all these features we believe that our website provides every solution to any problem.
+
 *An exclusive psychiatric column which proposes the importance of meditation and inspires to make it a daily habit .Meditation produces a deep state of relaxation and a tranquil mind. Adding it to an everyday lifestyle keeps us relaxed thereby increasing the productivity. The psychiatric column includes videos such as proper meditation poses ,soothing vibrations for relaxation of mind and yoga asanas for healthy body and mind.
+
 *Music page contains a soothing track of music which calms the entire body .It is scientifically proven that music lowers Stress and Improves Health Condition. With such wonderful benefits adding music page becomes vital to make our website accomplished.
+
 *A Donation page to empower the underprivileged strata of the women.
+
 *With so much load at workplace and at home, it is natural to forget the daily tasks and things to deal with, our website SHE has a provision of to-do list which makes it easier to keep track of things to do .The tasks list has two columns, one is for to-do tasks and the other one is for the completed tasks .As one completes her task, she just has to click on the box button and that task automatically comes under the completed tasks giving a sense of relief.There will be a donation page which will include donation sections for widows and orphan girls to make ends meet for them. It will have a payment gateway where people can donate as per their will.Also we are including a login page to make the website personalized .
+
+
 **CREATORS**
 1)Pratya Chandrayan
 2)Sadhna S
