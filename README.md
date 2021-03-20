@@ -11,12 +11,20 @@ We have created this website to make it all simpler for them. We have looked at 
 **RESEACRCH**
 
 *Stress at work is a growing problem for all workers, including women. In one survey 60% of employed women cited stress as their number one problem at work. Furthermore, levels of stress-related illness are nearly twice as high for women as for men.
-*ACCORDING tO SURVEYs:
+
+*ACCORDING tO SURVEY:
+
 -Depressive disorders account for close to 41.9% of the disability from neuropsychiatric disorders among women compared to 29.3% among men.
+
 -Leading mental health problems of the elderly are depression, organic brain syndromes, and dementias. A majority are women.
--An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women and children
--Lifetime prevalence rate of violence against women ranges from 16% to 50%
+
+-An estimated 80% of 50 million people affected by violent conflicts, civil wars, disasters, and displacement are women and children.
+
+-Lifetime prevalence rate of violence against women ranges from 16% to 50%.
+
+
 -At least one in five women suffers rape or attempted rape in their lifetime.
+
 *Each one of us must be ready to treat women as equal counterparts. We must help them at every stage and more than that empower them to make their own decisions. After that, these issues can be eliminated so women need not face discrimination in the name of gender.
 
 **ROADMAP**
