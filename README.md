@@ -53,7 +53,7 @@ We promote Women Participation in every sphere, We have a special connect featur
 ![image](https://user-images.githubusercontent.com/76087547/111888454-b1a6d300-8a02-11eb-9a92-063f738bef37.png)
 
 
-*A Donation page to empower the underprivileged strata of the women.
+*A Donation page to empower the underprivileged strata of the women.It conatins the fundraiser for old-age,widow and firl chils.
 
 ![image](https://user-images.githubusercontent.com/76087547/111888421-4eb53c00-8a02-11eb-9a64-9b2d060d9b83.png)
 
