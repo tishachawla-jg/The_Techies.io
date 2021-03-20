@@ -1,4 +1,6 @@
+**SHE**
 **PROJECT DESCRIPTION**
+
 Our Project SHE is centered upon the idea of women empowerment.Women are a multitasker and it is essential to have a sound body and mind to persevere this unique power in them.Women are key in maintaining healthy families and access the health system more than men, both for themselves and on behalf of their children. Across her lifespan, a woman’s health status not only  matters to herself but also to her family ,so it is essential to that they have sound mind and body .
 We have created this website to make it all simpler for them. We have looked at it from our own point of you and tried to incorporate as many features as possible.
 
@@ -6,6 +8,7 @@ We have created this website to make it all simpler for them. We have looked at 
 ![image](https://user-images.githubusercontent.com/76087547/111888274-1fea9600-8a01-11eb-9e44-c3aa3ec7ad4f.png)
 
 **RESEACRCH**
+
 *Stress at work is a growing problem for all workers, including women. In one survey 60% of employed women cited stress as their number one problem at work. Furthermore, levels of stress-related illness are nearly twice as high for women as for men.
 *ACCORDING tO SURVEYs:
 -Depressive disorders account for close to 41.9% of the disability from neuropsychiatric disorders among women compared to 29.3% among men.
@@ -15,10 +18,15 @@ We have created this website to make it all simpler for them. We have looked at 
 -At least one in five women suffers rape or attempted rape in their lifetime.
 *Each one of us must be ready to treat women as equal counterparts. We must help them at every stage and more than that empower them to make their own decisions. After that, these issues can be eliminated so women need not face discrimination in the name of gender.
 **ROADMAP**
+
 ![image](https://user-images.githubusercontent.com/76087547/111888225-9c30a980-8a00-11eb-9029-d1c1b39182b1.png)
+
 **FEATURES**
+
 The features includes the convenience of :
+
 *A Login Page
+
 *Three personal chatbots regarding menstruation, health and safety: To make the website more user friendly we have added a Chatbot feature .The Chatbot contains three sections :One is Menstruation Section which contains each and every information regarding periods and acts as a guide during the difficult times ,second is health section which has a specialized diet plan for women of all categories and then there is a safety section which acts as a supporter during the times we we feel unsafe and has safety advices. 
 
 *A Health column which includes a BMI and a CALORIE calculator ,a diet plan ,a workout plan for beginners and also some healthy habits to follow. We believe that this column would make it easier for them to find everything at a single place which is easily accessible. Also ,the BMI chart is added for measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass .All these features are added to maintain a healthy lifestyle. 
