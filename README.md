@@ -18,6 +18,7 @@ We have created this website to make it all simpler for them. We have looked at 
 -Lifetime prevalence rate of violence against women ranges from 16% to 50%
 -At least one in five women suffers rape or attempted rape in their lifetime.
 *Each one of us must be ready to treat women as equal counterparts. We must help them at every stage and more than that empower them to make their own decisions. After that, these issues can be eliminated so women need not face discrimination in the name of gender.
+
 **ROADMAP**
 
 ![image](https://user-images.githubusercontent.com/76087547/111888225-9c30a980-8a00-11eb-9029-d1c1b39182b1.png)
