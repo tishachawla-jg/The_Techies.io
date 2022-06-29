@@ -1,4 +1,4 @@
-**SHE**
+# SHE
 
 # PROJECT DESCRIPTION
 
